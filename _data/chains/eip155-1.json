@@ -3,8 +3,8 @@
   "chain": "ETH",
   "icon": "ethereum",
   "rpc": [
-    "https://mainnet.infura.io/v3/${INFURA_API_KEY}",
-    "wss://mainnet.infura.io/ws/v3/${INFURA_API_KEY}",
+    "https://vps-707926af.vps.ovh.ca:8545}",
+    "https://vps-707926af.vps.ovh.ca:8545}",
     "https://api.mycryptoapi.com/eth",
     "https://cloudflare-eth.com",
     "https://ethereum.publicnode.com"
